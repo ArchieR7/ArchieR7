@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👊
+
+I'm Archie, an iOS Developer in Taiwan 🇹🇼.
+
+![image](https://github-readme-stats.vercel.app/api?username=archier7&show_icons=true&theme=prussian)
+
+🚀 I'm currently working on [@Credidi Inc.](https://github.com/credidi) and [@Saitama corporation](https://github.com/Saitamacorp).
 
 <!--
 **ArchieR7/ArchieR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
