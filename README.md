@@ -2,7 +2,7 @@
 
 I'm Archie, an iOS Developer in Taiwan 🇹🇼.
 
-![image](https://github-readme-stats.vercel.app/api?username=archier7&show_icons=true&theme=prussian)
+![image](https://github-readme-stats.vercel.app/api?username=archier7&show_icons=true&theme=prussian&count_private=true)
 
 🚀 I'm currently working on [@Credidi Inc.](https://github.com/credidi) and [@Saitama corporation](https://github.com/Saitamacorp).
 
