@@ -1,6 +1,6 @@
 👋 Hi there! I'm **Archie**, a passionate independent developer from Taiwan 🇹🇼.
 
-🚀 As the CTO and Partner at **[@RE:DREAMER](https://github.com/REDREAMERLab)**, I'm at the forefront of driving technology visions into reality. Alongside, I serve as the IG (Inspector General) at **[@Domin Network](https://github.com/domin-network)**, ensuring integrity and excellence across our projects.
+🚀 As the Partner at **[@RE:DREAMER](https://github.com/REDREAMERLab)**, I'm at the forefront of driving technology visions into reality. Alongside, I serve as the IG (Inspector General) at **[@Domin Network](https://github.com/domin-network)**, ensuring integrity and excellence across our projects.
 
 📱 I have a penchant for crafting engaging iOS Apps on my own. My journey includes a successful proposal submission and approval at **[WAX Labs](https://labs.wax.io)**, a testament to my commitment to innovative and impactful solutions.
 
