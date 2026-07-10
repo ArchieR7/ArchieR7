@@ -1,20 +1,28 @@
-👋 Hi there! I'm **Archie**, a passionate independent developer from Taiwan 🇹🇼.
+# Hi, I'm Archie (張家齊)
 
-📱 I have a penchant for crafting engaging iOS Apps on my own.
+Full-stack engineer & independent developer. I ship products from 0 to 1 — apps, websites, and everything in between.
 
-🔍 My roles span across strategic leadership, tech innovation, and rigorous quality assurance - a triad that defines my approach to the digital world.
+## What I Do
 
-👨‍💻 When I'm not in the tech trenches, you'll find me exploring new technologies, contributing to open-source projects, or sharing my knowledge and experiences with budding developers.
+- **iOS apps** — 7 self-built apps on the App Store since 2015, 10 years running without a break. Find Drinks has 25K+ downloads.
+- **Web products** — SEO tool sites, client projects (incl. government), and my own e-commerce brand, all on Cloudflare + Supabase.
+- **Ethereum standards** — co-authored [ERC-6672](https://eips.ethereum.org/EIPS/eip-6672) (Multi-Redeemable NFTs), the 67th ERC adopted by the community.
 
-🌟 My mission is to create, inspire, and make a tangible difference in the tech landscape, one project at a time.
+## Tech Stack
 
-Let's connect and make the digital world a better place, together! 💼🌐
+**Mobile:** Swift · SwiftUI · TCA · UIKit
+**Web:** React · React Router v7 · TypeScript · Tailwind CSS
+**Backend:** Supabase (PostgreSQL) · Cloudflare Workers · Node.js · Deno
+**AI Tools:** Claude Code · Codex — all projects are AI-augmented
 
-- 🌱 Currently learning everything there is to know about **Blockchain Technology** and **iOS Development**.
-- 💬 Ask me about **iOS Development**, **Leadership in Tech**, and **Innovating with Integrity**.
-- 📫 How to reach me: [X](https://twitter.com/ChangArchie)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid coffee lover ☕ and a tech gadget aficionado 📱💻.
+## Companies
 
-![image](https://github-readme-stats.vercel.app/api?username=archier7&show_icons=true&theme=prussian&count_private=true)
-![image](https://pixel-profile.vercel.app/api/github-stats?username=archier7)
+- **Archie Design App LLC** (Wyoming, USA) — apps, web products, SEO sites
+- **叡齊有限公司** (Taiwan) — freelance, RickyMartini e-commerce
+
+## Links
+
+- 🔗 Portfolio: [archie-design.app](https://archie-design.app)
+- 📱 App Store: [Chia-Chi Chang](https://apps.apple.com/tw/developer/chia-chi-chang/id1251301443)
+- 🌐 Personal: [archie.tw](https://archie.tw)
+- 💼 LinkedIn: [archiechang](https://www.linkedin.com/in/archiechang/)
